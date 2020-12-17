@@ -1,0 +1,10 @@
+OBJECT_BASE 3215664.btg
+OBJECT FY1Y.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 16.064694 -21.254313 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 16.069706 -21.243987 -9999.0 0.00
+OBJECT FY3S.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 16.058052 -21.190733 1406.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 16.066348 -21.184767 1419.2 0.00
+OBJECT FYEO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 16.021851 -21.226920 1376.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 16.028849 -21.216780 1382.1 0.00
